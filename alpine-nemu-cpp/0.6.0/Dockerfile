@@ -1,4 +1,4 @@
-FROM diplodocusdb/alpine-diplodocusdb:0.4.0
+FROM diplodocusdb/alpine-diplodocusdb:0.5.0
 
 ENV NEMU_CPP=/nemu/cpp
 
